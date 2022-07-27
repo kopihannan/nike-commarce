@@ -1,0 +1,30 @@
+.topNav{
+    padding-left: 35px;
+    font-size: 16px;
+    font-weight: 600;
+}
+.navLogo img{
+    width: 300px;
+    height: 45px;
+}
+.top-background{
+    background-color: #EDE7F6;
+    padding-top: 10px;
+    padding-bottom: 70px;
+}
+.shoesBg{
+    background-color: #ECEFF1;
+    border-radius: 15px;
+}
+.shoesImg img{
+    object-fit: cover;
+    width: 100%;
+    height: 320px;
+}
+.icon{
+    width: 68px;
+    height: 72px;
+}
+.featerText{
+    color: #1A237E;
+}
